@@ -18,6 +18,8 @@ Every concept connects to AI fundamentals:
 - Java Overflow → Gradient Explosion in AI Training
 - Data Types → Model Quantization (float32 vs int8)
 - Memory Architecture → Transformer KV-Cache Design
+- Switch Jump Table → Mixture of Experts Routing in GPT-4
+- Integer Division → Precision Loss in AI Computations
 
 ## Stack
 Java · Python · AI/ML · Systems Architecture
