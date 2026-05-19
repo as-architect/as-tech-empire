@@ -10,7 +10,7 @@ Building systems understanding from memory architecture to AI fundamentals.
 - [x] Concept 1 — Variables and Memory (RAM vs Disk, Stack vs Heap)
 - [x] Concept 2 — Data Types, Limits, Overflow (IEEE 754, Integer Overflow)
 - [x] Concept 3 — Expressions and Conditions
-- [ ] Concept 4 — Switches and Logical Operators
+- [x] Concept 4 — Switches and Logical Operators
 - [ ] Concept 5 — Math Class and Random Numbers
 
 ## Research Bridge
