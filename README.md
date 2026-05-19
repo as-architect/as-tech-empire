@@ -11,15 +11,23 @@ Building systems understanding from memory architecture to AI fundamentals.
 - [x] Concept 2 — Data Types, Limits, Overflow (IEEE 754, Integer Overflow)
 - [x] Concept 3 — Expressions and Conditions
 - [x] Concept 4 — Switches and Logical Operators
-- [ ] Concept 5 — Math Class and Random Numbers
+- [x] Concept 5 — Math Class and Random Numbers
+- [ ] Concept 6 — While Loop, For Loop, Nested Loops
+- [ ] Concept 7 — Arrays and 2D Arrays
+- [ ] Concept 8 — ArrayList, 2D ArrayList, For-each Loop
+- [ ] Concept 9 — Methods and Overloaded Methods
+- [ ] Concept 10 — printf and Final Keyword
+- [ ] Concept 11 — Static Keyword
 
 ## Research Bridge
 Every concept connects to AI fundamentals:
-- Java Overflow → Gradient Explosion in AI Training
+- Variables & Memory → Transformer KV-Cache Design
 - Data Types → Model Quantization (float32 vs int8)
-- Memory Architecture → Transformer KV-Cache Design
+- Integer Overflow → Gradient Explosion in AI Training
 - Switch Jump Table → Mixture of Experts Routing in GPT-4
 - Integer Division → Precision Loss in AI Computations
+- Math.random() → Weight Initialization in Neural Networks
+- Math.pow() → Exponential Learning Rate Decay in AI Training
 
 ## Stack
 Java · Python · AI/ML · Systems Architecture
