@@ -46,5 +46,6 @@ class C1T1C4 {
             }
             default -> System.out.println("Invalid option");
         }
+        sc.close();
     }
 }
