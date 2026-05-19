@@ -28,7 +28,7 @@ class C1T1C5 {
         int n2 = (int)(Math.random() * n) + 1;
         System.out.println("\nSecond random number (1-" + n + "): " + n2);
 
-        // Operations between both numbers
+        // Operations between both the random numbers
         System.out.println("Sum:        " + (n + n2));
         System.out.println("Difference: " + Math.abs(n - n2));
         System.out.println("Product:    " + (n * n2));
