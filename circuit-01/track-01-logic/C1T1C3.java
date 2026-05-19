@@ -44,5 +44,6 @@ class C1T1C3 {
         System.out.println("int result of " + n + "/3 = " + ir);
         System.out.println("double result of " + n + "/3 = " + dr);
         System.out.println("Difference = " + difference);
+        sc.close();
     }
 }
