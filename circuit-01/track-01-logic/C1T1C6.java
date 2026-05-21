@@ -48,5 +48,6 @@ class C1T1C6 {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
