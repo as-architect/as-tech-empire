@@ -12,7 +12,7 @@ Building systems understanding from memory architecture to AI fundamentals.
 - [x] Concept 3 — Expressions and Conditions
 - [x] Concept 4 — Switches and Logical Operators
 - [x] Concept 5 — Math Class and Random Numbers
-- [ ] Concept 6 — While Loop, For Loop, Nested Loops
+- [x] Concept 6 — While Loop, For Loop, Nested Loops
 - [ ] Concept 7 — Arrays and 2D Arrays
 - [ ] Concept 8 — ArrayList, 2D ArrayList, For-each Loop
 - [ ] Concept 9 — Methods and Overloaded Methods
@@ -28,6 +28,8 @@ Every concept connects to AI fundamentals:
 - Integer Division → Precision Loss in AI Computations
 - Math.random() → Weight Initialization in Neural Networks
 - Math.pow() → Exponential Learning Rate Decay in AI Training
+- Loops → Gradient Descent Training Iterations
+- While Loop → Early Stopping in AI Training
 
 ## Stack
 Java · Python · AI/ML · Systems Architecture
