@@ -2,11 +2,10 @@
 // Problem: Build a Smart Random Number Game
 // Q: Why does Math.random() return 0.0 to 0.999 and never exactly 1.0?
 // A: Math.random() uses IEEE 754 double format internally.
-//    The algorithm is designed to return values in range [0.0, 1.0)
-//    meaning 0 is included but 1 is excluded by design.
+//    The algorithm is designed to return values from 0.0 to 1.0 where is excluded.
 //    Even if floating point could represent 1.0 exactly,
-//    the algorithm never produces it — same precision boundary
-//    we saw in Concept 2 with 0.1 + 0.2 = 0.30000000000000004.
+//    the algorithm never produces it — same precision boundary problem
+//    which we saw in Concept 2 where 0.1 + 0.2 = 0.30000000000000004.
 // Research Bridge: Random number generation → Weight initialization in neural networks
 //                  AI models initialize weights randomly before training begins
 
