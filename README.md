@@ -21,7 +21,7 @@ Building systems understanding from memory architecture to AI fundamentals.
 ### Phase 2 — Methods and Clean Code
 - [x] Concept 9  — Methods and Overloaded Methods
 - [x] Concept 10 — printf and Final Keyword
-- [ ] Concept 11 — Static Keyword
+- [x] Concept 11 — Static Keyword
 
 ### Phase 3 — OOP Core
 - [ ] Concept 12 — Objects and Constructors
@@ -86,8 +86,9 @@ Every concept connects to AI fundamentals:
 - 2D Arrays → Weight Matrices in Neural Networks
 - ArrayList Resizing → Dynamic Memory Allocation in AI
 - Methods → Transformer Layers (reusable modular blocks)
-- printf → Formatted logging in AI training pipelines
-- final → Hyperparameters in AI training (learning rate, epsilon)
+- printf → Formatted Logging in AI Training Pipelines
+- final → Hyperparameters in AI Training (learning rate, epsilon)
+- Static → Shared Model Registry in AI Inference
 
 ## Stack
 Java · Python · AI/ML · Systems Architecture
