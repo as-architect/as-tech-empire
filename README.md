@@ -19,7 +19,7 @@ Building systems understanding from memory architecture to AI fundamentals.
 - [x] Concept 8  — ArrayList, 2D ArrayList, For-each Loop
 
 ### Phase 2 — Methods and Clean Code
-- [ ] Concept 9  — Methods and Overloaded Methods
+- [x] Concept 9  — Methods and Overloaded Methods
 - [ ] Concept 10 — printf and Final Keyword
 - [ ] Concept 11 — Static Keyword
 
@@ -85,7 +85,7 @@ Every concept connects to AI fundamentals:
 - Arrays → Tensors in AI (contiguous memory = fast GPU computation)
 - 2D Arrays → Weight Matrices in Neural Networks
 - ArrayList Resizing → Dynamic Memory Allocation in AI
-- Methods → Modular AI Pipeline Components
+- Methods → Transformer Layers (reusable modular blocks)
 
 ## Stack
 Java · Python · AI/ML · Systems Architecture
